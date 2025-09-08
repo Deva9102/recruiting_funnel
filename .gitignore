@@ -1,0 +1,12 @@
+# SQLite database files
+*.db
+*.sqlite
+
+# System files
+.DS_Store
+
+# Python/venv (if you add scripts later)
+__pycache__/
+*.pyc
+venv/
+
